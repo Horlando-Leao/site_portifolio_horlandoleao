@@ -118,29 +118,26 @@ class Contact extends Component {
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Last Updates</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Estou de home office desde sempre então...
+                      <br />
+                      <a href="./"> http:emcasa.com...</a>
                     </span>
                     <b>
-                      <a href="./">2 Days Ago</a>
+                      <a href="./">20/05/2021</a>
                     </b>
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Comecei a estudar Java novamente, e estou achando mais legal com spring framework... 
+                      <br />
+                      <a href="./"> http:Elegal-spring</a>
                     </span>
                     <b>
-                      <a href="./">3 Days Ago</a>
+                      <a href="./">20/05/2021</a>
                     </b>
                   </li>
                 </ul>
