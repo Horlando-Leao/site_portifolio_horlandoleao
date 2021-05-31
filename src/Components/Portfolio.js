@@ -15,6 +15,7 @@ class Portfolio extends Component {
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <a style={{ textAlign: "center" }} target="parent" href={projects.url}> Link do Projeto </a>
           </div>
         </div>
       );
@@ -25,7 +26,7 @@ class Portfolio extends Component {
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Check Out Some of My Works.</h1>
+              <h1>Aqui estão meus projetos pessoais.</h1>
 
               <div
                 id="portfolio-wrapper"

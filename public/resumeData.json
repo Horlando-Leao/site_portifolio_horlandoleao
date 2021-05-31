@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Tenho apenas 2 anos de expência com desenvolvimento, mas muito empenhado a aprender mais, ultimamente estou estudando deploy na cloud e inteligência artificial",
+    "skillmessage":"Tenho apenas 16 meses de expêriencia com desenvolvimento, mas muito empenhado a aprender mais, ultimamente estou estudando deploy na cloud e inteligência artificial",
     "education":[
       {
         "school":"Faculdade Senac",
@@ -87,7 +87,7 @@
         "level":"80%"
       },
       {
-        "name":"NOSQL [MongoDB, CouchDB]",
+        "name":"NOSQL [MongoDB]",
         "level":"50%"
       },
       {
@@ -107,16 +107,58 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"API Mapa de Calor em Python - DS",
+        "category":"Horlando e Débora Caldas",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/maps_secview"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Identificador de cenas Perigosas - IA",
+        "category":"ia",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
+      },
+      {
+        "title":"Gerador de Relatório Inteligente em Python",
         "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
+      },
+      {
+        "title":"Encurtador de URL em Node.JS",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/node_short_url"
+      },
+      {
+        "title":"Backend REST Sistemas de Pedido em Java",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/spring-boot-ionic-backend"
+      },
+      {
+        "title":"Backend REST Sistemas TO-DOS em Python",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/backend_tasklist"
+      },
+      {
+        "title":"telegranBotIA (Não iniciado)",
+        "category":"ia",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/telegranBotIA"
+      },
+      {
+        "title":"Site Cópia Airbnb para Programadores",
+        "category":"Não iniciado",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/reactSiteAirBnb"
+      },
+      {
+        "title":"Site Web Proffy Rockseat",
+        "category":"Não iniciado",
+        "image":"meu-profile-github.png",
+        "url":"https://github.com/Horlando-Leao/webProffyRocktseat"
       }
     ]
   }
