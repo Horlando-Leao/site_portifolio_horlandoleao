@@ -1,21 +1,21 @@
 {
   "main": {
     "name":"Horlando J. da C. Leão",
-    "description":"Eu sou um desenvolvedor backend, buscando minha primeira vaga de junior",
+    "description":"Sou um desenvolvedor, buscando minha primeira oportunidade",
     "image":"profilepic.png",
-    "bio":"Eu atualmente faço estágio em desenvolvimetno, a minha equipe é formada por mim, minha vontade e o google, nós nos damos bem, eu gosto de usar Python para meus projetos pessoais, gosto mais de desenvolvimento da regra de negócio no backend e banco de dados, sei um pouco de front, não é muito, mas da para desenrolar algumas coisas.",
+    "bio":"Atualmente estagio em desenvolvimento na Copergás, participo ativamente na definição das regras de negócio de sistemas, captando requisitos, validando informações, desenvolvendo sistemas em ScriptCase (RAD em PHP) e em Node.JS com os bancos de dados MySQL, Oracle e SQL Server e implantando em servidores.",
     "contactmessage":"Se precisar contactar a mim, também poderá preencher o formulário, retornarei assim que puder 😊",
     "email": "horlandoleao8@gmail.com",
     "phone": "+55 81 985707284",
     "github":"https://github.com/Horlando-Leao/",
-    "project":"https://github.com/Horlando-Leao?tab=repositories",
+    "linkedin":"https://www.linkedin.com/in/horlandojcleao/",
     "address":{
       "street":"--------",
       "city":"Olinda",
       "state":"pernambuco",
       "zip": "53250-040"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://upbeat-spence-f2ffdb.netlify.app/",
     "resumedownload":"https://drive.google.com/file/d/1bU_bCWV8IM96w-ZGI3oo4djfkRI_psvA/view?usp=sharing",
     "social":[
       {
@@ -42,7 +42,7 @@
         "school":"Faculdade Senac",
         "degree":"Análise e Desenvolvimento de Sistemas",
         "graduated":"Junho de 2021",
-        "description":"Criar, Modelar e otimizar bancos de dados, desenvolver softwares, gerenciamento de projetos, metodologias agéis, boas praticas de desenvolvimento, entender conceitos e praticar fundamentos da programação, aplicar conhecimento em projetos semestrais."
+        "description":"Tecnólogo"
       },
       {
         "school":"Escola Nova Olinda",
@@ -59,6 +59,12 @@
         "description":"Desenvolver sistemas com ScriptCase(PHP), criar relatórios com SQL das bases MySQl, Oracle e SQL Server, manter e desenvolver novas funcionalidades em sistema Node.JS e tratar requisitos funcionais de sistema com o cliente"
       },
       {
+        "company":"Hackathon - 2º Lugar",
+        "title":"Desenvolvedor",
+        "years":"3 a 5 de Dezembro 2018",
+        "description":"Análise de problema do usuário e construção e protótipo de sistema e apresentação da ideia."
+      },
+      {
         "company":"Cefospe",
         "title":"Estágiario de Suporte TI",
         "years":"Dezembro 2018 - Janeiro 2019",
@@ -67,28 +73,40 @@
     ],
     "skills":[
       {
-        "name":"Python [Flask, Data Science, PLN, IA]",
+        "name":"Comunicação",
+        "level":"80%"
+      },
+      {
+        "name":"Python [Flask]",
         "level":"60%"
+      },
+      {
+        "name":"Cloud Computing [Heroku, Netlify, Google]",
+        "level":"30%"
+      },
+      {
+        "name":"Inteligência Artificial e Ciência de Dados",
+        "level":"30%"
       },
       {
         "name":"Node.JS [Express]",
         "level":"50%"
       },
       {
-        "name":"PHP [Basic, ScriptCase]",
+        "name":"PHP [Básico, ScriptCase]",
         "level":"30%"
       },
       {
-        "name":"JAVA [Basic, Spring]",
+        "name":"JAVA [Básico, Spring]",
         "level":"25%"
       },
       {
         "name":"SQL [Mysql, Oracle, SQL Server]",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"NOSQL [MongoDB]",
-        "level":"50%"
+        "level":"30%"
       },
       {
         "name":"ReactJs",
@@ -100,63 +118,81 @@
       },
       {
         "name":"CSS",
-        "level":"40%"
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"API Mapa de Calor em Python - DS",
-        "category":"Horlando e Débora Caldas",
+        "title":"Copergás - SILIA",
+        "category":"Sistema de acompanhamento de Licenças",
+        "image":"meu-profile-github.png",
+        "url":"/"
+      },
+      {
+        "title":"Copergás - SGP",
+        "category":"Sistema gerenciamento de projetos",
+        "image":"meu-profile-github.png",
+        "url":"/"
+      },
+      {
+        "title":"Copergás - SINC",
+        "category":"Sistema de notificação de faturas da Copergás",
+        "image":"meu-profile-github.png",
+        "url":"/"
+      },
+      {
+        "title":"Copergás - GELIC",
+        "category":"Sistema de acompanhamento de Licitações e Contratos",
+        "image":"meu-profile-github.png",
+        "url":"/"
+      },
+      {
+        "title":"Mapa de Calor",
+        "category":"Mapa de Regiões perigosas no estado de são paulo",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/maps_secview"
       },
       {
-        "title":"Identificador de cenas Perigosas - IA",
-        "category":"ia",
+        "title":"Identificador de Cenas",
+        "category":"API de indentificador de cenas que representão perigo",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
       },
       {
-        "title":"Gerador de Relatório Inteligente em Python",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Relatório Inteligente",
+        "category":"API de interpretação de intenções de usuário",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
       },
       {
-        "title":"Encurtador de URL em Node.JS",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Encurtador de URL",
+        "category":"Sistema de encurtamento de URL",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/node_short_url"
       },
       {
-        "title":"Backend REST Sistemas de Pedido em Java",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Sistemas de Pedido",
+        "category":"Sistema backend REST de pedidos em Java",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/spring-boot-ionic-backend"
       },
       {
-        "title":"Backend REST Sistemas TO-DOS em Python",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"REST TASK LIST",
+        "category":"Sistema backend REST de lista de tarefas",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/backend_tasklist"
       },
       {
-        "title":"telegranBotIA (Não iniciado)",
-        "category":"ia",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/telegranBotIA"
-      },
-      {
-        "title":"Site Cópia Airbnb para Programadores",
-        "category":"Não iniciado",
+        "title":"Airbnb para Programadores",
+        "category":"Site em REACTJS Rockeseat",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/reactSiteAirBnb"
       },
       {
-        "title":"Site Web Proffy Rockseat",
-        "category":"Não iniciado",
+        "title":"WebProffy",
+        "category":"Site em REACTJS Rockeseat, plataforma de ensino",
         "image":"meu-profile-github.png",
         "url":"https://github.com/Horlando-Leao/webProffyRocktseat"
       }
