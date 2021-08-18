@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Horlando Leão",
-    "description":"Sou um desenvolvedor, buscando minha primeira oportunidade",
+    "description":"Sou um desenvolvedor e aspirante em IA",
     "image":"profilepic.png",
     "bio":"Atualmente estagio em desenvolvimento na Di2win, desenvolvedor Python para a área de P&D",
     "contactmessage":"Se precisar contactar a mim, também poderá preencher o formulário, retornarei assim que puder 😊",
-    "email": "horlandoleao8@gmail.com",
+    "email": "horlandojcleao.developer@gmail.com",
     "phone": "+55 81 985707284",
     "github":"https://github.com/Horlando-Leao/",
     "linkedin":"https://www.linkedin.com/in/horlandojcleao/",
@@ -15,7 +15,7 @@
       "state":"pernambuco",
       "zip": "53250-040"
     },
-    "website": "https://upbeat-spence-f2ffdb.netlify.app/",
+    "website": "https://horlando-portfolio.netlify.app/",
     "resumedownload":"https://drive.google.com/drive/folders/13wqozIU4R9x8T00ulzwrRwwIFGdV2wGW?usp=sharing",
     "social":[
       {
@@ -36,12 +36,12 @@
     ]
   },
   "resume":{
-    "skillmessage":"Tenho pouco tempo de expêriencia com desenvolvimento, mas muito empenhado a aprender mais, ultimamente estou estudando deploy na cloud e inteligência artificial",
+    "skillmessage":"Tenho pouco tempo de expêriencia com desenvolvimento, 2 anos, mas muito empenhado a aprender mais, ultimamente estou estudando deploy na cloud e inteligência artificial",
     "education":[
       {
         "school":"Faculdade Senac",
         "degree":"Análise e Desenvolvimento de Sistemas",
-        "graduated":"Junho de 2021",
+        "graduated":"Janeiro de 2022",
         "description":"Tecnólogo"
       },
       {
@@ -53,10 +53,16 @@
     ],
     "work":[
       {
-        "company":"Copergás",
+        "company":"Di2win",
         "title":"Estágiario Desenvolvedor",
-        "years":"Fevereiro 2019 - Presente",
+        "years":"agosto 2021 - Presente",
         "description":"Desenvolver sistemas com ScriptCase(PHP), criar relatórios com SQL das bases MySQl, Oracle e SQL Server, manter e desenvolver novas funcionalidades em sistema Node.JS e tratar requisitos funcionais de sistema com o cliente"
+      },
+      {
+        "company":"Copergás",
+        "title":"Estágiario Desenvolvedor Node.JS, Scriptcase e PL/SQL, ",
+        "years":"Fevereiro 2019 - Julho 2021",
+        "description":"Desenvolver sistemas, passando por todas as fases desde a concepção, criação, validação e entrega do sistema, também criar relatórios SQL das principais bases da empresa: MySQl, Oracle e SQL Server. Manter e desenvolver novas funcionalidades em sistema Node.JS e tratar requisitos funcionais de sistema com o cliente"
       },
       {
         "company":"Hackathon - 2º Lugar",
@@ -69,6 +75,12 @@
         "title":"Estágiario de Suporte TI",
         "years":"Dezembro 2018 - Janeiro 2019",
         "description":"Atendimento de chamados para configuração de sistemas operacionais e pacotes de softwares"
+      },
+      {
+        "company":"Secretaria de Saúde de PE - (SES-PE)",
+        "title":"Estágiario Assistente Administrato",
+        "years":"Dezembro 2018 - Janeiro 2019",
+        "description":"Estágiario de ensino médio, ajudar na geração de relatórios e separação de documentos e no controle de protocolos de entrada e saída de documentos, além de atender visitantes"
       }
     ],
     "skills":[
