@@ -3,7 +3,7 @@
     "name":"Horlando Leão",
     "description":"Sou um desenvolvedor e aspirante em IA",
     "image":"perfil.jpg",
-    "bio":"Atualmente estagio em desenvolvimento na Di2win, desenvolvedor Python para a área de P&D",
+    "bio":"Atualmente sou Desenvolvedor na Di2win em full-stack, focado em back-end, uso mais Python e NodeJS. Sonho em ser engenheiro de Software",
     "contactmessage":"Se precisar contactar a mim, também poderá preencher o formulário, retornarei assim que puder 😊",
     "email": "horlandojcleao.developer@gmail.com",
     "phone": "+55 81 985707284",
@@ -36,12 +36,12 @@
     ]
   },
   "resume":{
-    "skillmessage":"Tenho pouco tempo de expêriencia com desenvolvimento, 2 anos, mas muito empenhado a aprender mais, ultimamente estou estudando deploy na cloud e inteligência artificial",
+    "skillmessage":"2 anos de experiência, empenhado em ser o melhor desenvolvedor todo dia, ultimamente estou estudando: deploy na cloud, inteligência artificial e engenharia de Software",
     "education":[
       {
         "school":"Faculdade Senac",
         "degree":"Análise e Desenvolvimento de Sistemas",
-        "graduated":"Janeiro de 2022",
+        "graduated":"Dezembro de 2021",
         "description":"Tecnólogo"
       },
       {
@@ -54,8 +54,14 @@
     "work":[
       {
         "company":"Di2win",
+        "title":"Desenvolvedor Jr.",
+        "years":"Fevereiro 2022 - Presente",
+        "description":"Desenvolver sistemas com foco em Automação de processos"
+      },
+      {
+        "company":"Di2win",
         "title":"Estágiario Desenvolvedor Python",
-        "years":"agosto 2021 - Presente",
+        "years":"agosto 2021 - Janeiro 2022",
         "description":"Desenvolver sistemas com foco em Automação de processos"
       },
       {
@@ -75,12 +81,6 @@
         "title":"Estágiario de Suporte TI",
         "years":"Dezembro 2018 - Janeiro 2019",
         "description":"Atendimento de chamados para configuração de sistemas operacionais e pacotes de softwares"
-      },
-      {
-        "company":"Secretaria de Saúde de PE - (SES-PE)",
-        "title":"Estágiario Assistente Administrato",
-        "years":"Dezembro 2018 - Janeiro 2019",
-        "description":"Estágiario de ensino médio, ajudar na geração de relatórios e separação de documentos e no controle de protocolos de entrada e saída de documentos, além de atender visitantes"
       }
     ],
     "skills":[
