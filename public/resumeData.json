@@ -39,6 +39,12 @@
     "skillmessage":"2 anos de experiência, empenhado em ser o melhor desenvolvedor todo dia, ultimamente estou estudando: deploy na cloud, inteligência artificial e engenharia de Software",
     "education":[
       {
+        "school":"Pontifícia Universidade Católica de Minas Gerais",
+        "degree":"Especialização em Engenharia de Software (Lato Sensu)",
+        "graduated":"julho de 2023",
+        "description":"Pós-graduação"
+      },
+      {
         "school":"Faculdade Senac",
         "degree":"Análise e Desenvolvimento de Sistemas",
         "graduated":"Dezembro de 2021",
