@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Horlando Leão",
-    "description":"Sou um desenvolvedor e aspirante em IA",
+    "description":"Desenvolvedor | Cloud Computing AWS | IA e Automação | Back-end",
     "image":"perfil2.jpg",
-    "bio":"Atualmente sou Desenvolvedor na Di2win em full-stack, focado em back-end, uso mais Python e NodeJS. Sonho em ser engenheiro de Software",
+    "bio":"Sou profissional de tecnologia com 5+ anos de experiência no desenvolvimento de soluções robustas em Python, TypeScript e PHP. Tenho vivência em todo o ciclo de desenvolvimento de software, desde concepção e arquitetura até deploy, com foco em microsserviços e automação. Atuo com LLMs, engenharia de prompts e cloud AWS.",
     "contactmessage":"Se precisar contactar a mim, também poderá preencher o formulário, retornarei assim que puder 😊",
     "email": "horlandojcleao.developer@gmail.com",
     "phone": "+55 81 985707284",
-    "github":"https://github.com/Horlando-Leao/",
+    "github":"https://github.com/Horlando-Leao",
     "linkedin":"https://www.linkedin.com/in/horlandojcleao/",
     "address":{
       "street":"--------",
@@ -36,107 +36,139 @@
     ]
   },
   "resume":{
-    "skillmessage":"2 anos de experiência, empenhado em ser o melhor desenvolvedor todo dia, ultimamente estou estudando: deploy na cloud, inteligência artificial e engenharia de Software",
+    "skillmessage":"5+ anos de experiência em desenvolvimento de soluções robustas. Especialista em LLMs, engenharia de prompts, arquitetura multi-tenant, cloud AWS, CI/CD, Terraform e NLP. Valorizo soluções padronizadas, testáveis e resilientes com ênfase em modularidade.",
     "education":[
       {
         "school":"Pontifícia Universidade Católica de Minas Gerais",
-        "degree":"Especialização em Engenharia de Software (Lato Sensu)",
-        "graduated":"julho de 2023",
-        "description":"Pós-graduação"
+        "degree":"Pós-graduação Lato Sensu - Especialização em Engenharia de Software",
+        "graduated":"maio de 2022",
+        "description":"Especialização"
       },
       {
-        "school":"Faculdade Senac",
-        "degree":"Análise e Desenvolvimento de Sistemas",
-        "graduated":"Dezembro de 2021",
+        "school":"Centro Universitário Senac",
+        "degree":"Curso Superior de Tecnologia (CST) - Análise e Desenvolvimento de Sistemas",
+        "graduated":"janeiro de 2022",
         "description":"Tecnólogo"
-      },
-      {
-        "school":"Escola Nova Olinda",
-        "degree":"Ensino Médio",
-        "graduated":"Dezembro 2018",
-        "description":"Educação básica"
       }
     ],
     "work":[
       {
-        "company":"Di2win",
-        "title":"Desenvolvedor Jr.",
-        "years":"Fevereiro 2022 - Presente",
-        "description":"Desenvolver sistemas com foco em Automação de processos"
+        "company":"Superlógica Tecnologias",
+        "title":"Desenvolvedor Pleno - Engenharia Cross",
+        "years":"maio de 2025 - Presente",
+        "description":"Desenvolvedor com foco em soluções com Inteligência Artificial. Responsável pela definição da arquitetura de soluções baseadas em IA, LLMs (OpenAI, Mistral, Anthropic), engenharia de prompts, orquestração com LangChain e LangGraph, MCP (Model Context Protocol), e ambientes multi-tenant."
+      },
+      {
+        "company":"Superlógica Tecnologias",
+        "title":"Desenvolvedor Pleno - P&D",
+        "years":"outubro de 2023 - maio de 2025",
+        "description":"Pesquisa de soluções tecnológicas para problemas reais do mercado. Desenvolvimento de POCs, MVPs e produtos finais. Plataforma WhatsApp com integração via middleware, multi-tenant resiliente a falhas, integrações com múltiplos ERPs. Infraestrutura AWS (S3, Secrets Manager, ECS, API Gateway), Terraform, Datadog, Node.js, MySQL e MongoDB."
+      },
+      {
+        "company":"Superlógica Tecnologias",
+        "title":"Desenvolvedor Júnior III - P&D",
+        "years":"setembro de 2022 - outubro de 2023",
+        "description":"Pesquisa de soluções tecnológicas e desenvolvimento de POCs, MVPs e produtos. Participação em projetos em todas as etapas do ciclo de desenvolvimento de software. Linguagens: TypeScript, Python e PHP."
       },
       {
         "company":"Di2win",
-        "title":"Estágiario Desenvolvedor Python",
-        "years":"agosto 2021 - Janeiro 2022",
-        "description":"Desenvolver sistemas com foco em Automação de processos"
+        "title":"Desenvolvedor Full Stack IA",
+        "years":"fevereiro de 2022 - setembro de 2022",
+        "description":"Desenvolvimento de plataforma baseada em microsserviços para processamento inteligente de currículos. Pipelines de ETL com Python (spaCy, scikit-learn), NLP, NER. APIs RESTful com Node.js. Azure cloud computing (VMs e Storage Blob)."
+      },
+      {
+        "company":"Di2win",
+        "title":"Desenvolvedor Full Stack IA (Estágio)",
+        "years":"agosto de 2021 - fevereiro de 2022",
+        "description":"Plataforma de microsserviços para processamento inteligente de currículos com ranking automatizado de candidatos. Desenvolvimento de pipelines ETL com Python, APIs RESTful com Node.js, Elasticsearch, Git e Shell Script."
       },
       {
         "company":"Copergás",
-        "title":"Estágiario Desenvolvedor Node.JS, Scriptcase e PL/SQL, ",
-        "years":"Fevereiro 2019 - Julho 2021",
-        "description":"Desenvolver sistemas, passando por todas as fases desde a concepção, criação, validação e entrega do sistema, também criar relatórios SQL das principais bases da empresa: MySQl, Oracle e SQL Server. Manter e desenvolver novas funcionalidades em sistema Node.JS e tratar requisitos funcionais de sistema com o cliente"
+        "title":"Desenvolvedor Full Stack",
+        "years":"fevereiro de 2020 - julho de 2021",
+        "description":"Desenvolvimento de sistemas internos. Back-end com PHP puro, ScriptCase, Node.js com Express.js. Bancos de dados: MySQL, Oracle, SQL Server com PL/SQL. Front-end: HTML, CSS, JavaScript. CMS: WordPress e Joomla. Cloud Computing, Shell Script e Git."
       },
       {
-        "company":"Hackathon - 2º Lugar",
+        "company":"Cointer PDV - Hackathon",
         "title":"Desenvolvedor",
-        "years":"3 a 5 de Dezembro 2018",
-        "description":"Análise de problema do usuário e construção e protótipo de sistema e apresentação da ideia."
+        "years":"dezembro de 2019",
+        "description":"Desenvolvimento de solução em 3 dias. Análise de casos de uso, captação de requisitos, ideação, construção de protótipo mockup e apresentação da ideia em formato de pitch."
       },
       {
         "company":"Cefospe",
-        "title":"Estágiario de Suporte TI",
-        "years":"Dezembro 2018 - Janeiro 2019",
-        "description":"Atendimento de chamados para configuração de sistemas operacionais e pacotes de softwares"
+        "title":"Suporte em TI",
+        "years":"dezembro de 2019 - janeiro de 2020",
+        "description":"Manutenção de computadores, atendimento ao clientes. Chamadas de suporte para o sistema interno da empresa."
       }
     ],
     "skills":[
       {
-        "name":"Comunicação",
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"TypeScript",
         "level":"80%"
       },
       {
-        "name":"Python [Flask]",
-        "level":"60%"
+        "name":"Node.JS [Express, NestJS]",
+        "level":"75%"
       },
       {
-        "name":"Cloud Computing [Heroku, Netlify, Google]",
-        "level":"30%"
+        "name":"SQL [MySQL, Oracle, SQL Server, PostgreSQL]",
+        "level":"80%"
       },
       {
-        "name":"Inteligência Artificial e Ciência de Dados",
-        "level":"30%"
-      },
-      {
-        "name":"Node.JS [Express]",
-        "level":"50%"
-      },
-      {
-        "name":"PHP [Básico, ScriptCase]",
-        "level":"30%"
-      },
-      {
-        "name":"JAVA [Básico, Spring]",
-        "level":"25%"
-      },
-      {
-        "name":"SQL [Mysql, Oracle, SQL Server]",
+        "name":"NoSQL [MongoDB, Elasticsearch]",
         "level":"70%"
       },
       {
-        "name":"NOSQL [MongoDB]",
-        "level":"30%"
+        "name":"APIs REST e Microsserviços",
+        "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"35%"
+        "name":"LLMs (OpenAI, Anthropic, GEMINI)",
+        "level":"75%"
       },
       {
-        "name":"Expo (React Native)",
-        "level":"30%"
+        "name":"LangChain e LangGraph",
+        "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"30%"
+        "name":"AWS [S3, Secrets Manager, ECS, API Gateway]",
+        "level":"70%"
+      },
+      {
+        "name":"Terraform e Infrastructure as Code",
+        "level":"65%"
+      },
+      {
+        "name":"CI/CD [Drone, GitHub Actions]",
+        "level":"70%"
+      },
+      {
+        "name":"NLP e NER",
+        "level":"65%"
+      },
+      {
+        "name":"ETL e Data Processing",
+        "level":"70%"
+      },
+      {
+        "name":"React e React Native",
+        "level":"50%"
+      },
+      {
+        "name":"Git e Controle de Versão",
+        "level":"85%"
+      },
+      {
+        "name":"Shell Script",
+        "level":"65%"
+      },
+      {
+        "name":"Comunicação e Liderança",
+        "level":"80%"
       }
     ]
   },

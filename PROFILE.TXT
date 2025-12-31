@@ -1,0 +1,238 @@
+Contato
+Olinda - Fragoso
+horlandoleao8@gmail.com
+www.linkedin.com/in/
+horlandojcleao (LinkedIn)
+horlando-portfolio.netlify.app/
+(Personal)
+github.com/Horlando-Leao/
+(Portfolio)
+Principais competências
+API REST
+Amazon Web Services
+JavaScript
+Languages
+Inglês (Elementary)
+Português (Native or Bilingual)
+Spanish (Elementary)
+Certifications
+Linux: A introdução ao sistema
+operacional
+AWS Certified Cloud Practitioner
+Horlando Leão
+Desenvolvedor | Cloud Computing AWS | IA e Automação | Back-
+end
+Olinda, Pernambuco, Brasil
+Resumo
+Sou profissional de tecnologia com 5+ anos de experiência no
+desenvolvimento de soluções robustas em Python, TypeScript
+e PHP, com forte atuação em projetos de P&D e inteligência
+artificial. Tenho vivência em todo o ciclo de desenvolvimento de
+software, desde concepção e arquitetura até deploy, com foco em
+microsserviços e automação.
+Atuo com LLMs (OpenAI, Anthropic, GEMINI), engenharia de
+prompts, fluxos com LangChain/LangGraph e arquitetura multi-
+tenant. Possuo domínio em cloud AWS, Supabase, CI/CD,
+Terraform, além de integração de APIs, ETL, NLP e protocolos
+modernos como MCP. Participei de projetos envolvendo plataformas
+conversacionais, sistemas multi-ERP e soluções guiadas com
+backend orientado a domínio.
+SQL Server - IntroduçãoValorizo soluções padronizadas, testáveis e resilientes. Entrego
+código limpo, orientado à manutenção e com ênfase na
+modularidade. Acredito que um bom código gera impacto direto no
+negócio.
+Honors-AwardsStack: Python, TypeScript, PHP, Node.js, Express.js, Flask,
+Shell script - Manipulando arquivos
+Bootcamp Become Remote (trabalho
+remoto)
+Desenvolvedor
+Fastapi, NestJS, React, Vite, Secret Manager, S3 Go, AWS, CI/CD,
+Terraform, OpenAI, LangChain, MongoDB, MySQL, PostgreSQL,
+Git, TDD, Supabase, Vercel e NLP/NER.
+Certificações:
+- AWS Certified Cloud Practitioner (AWS)
+- Qualificação em Programador de Sistemas (Senac)
+- Remote Work and Virtual Collaboration Professional Certificate
+RWVCPC (CertiProf)
+- SCRUM FOUNDATION PROFESSIONAL CERTIFICATE SFPC
+(CertiProf)
+Page 1 of 7Experiência
+Superlógica Tecnologias
+3 anos 4 meses
+Desenvolvedor Pleno - Engenharia Cross
+maio de 2025 - Present (8 meses)
+Atualmente, atuo como um desenvolvedor com foco em soluções com
+Inteligência Artificial, sendo responsável por colaborar em diversas frentes
+de projetos que envolvem o uso de LLMs (Large Language Models). Minha
+atuação é centrada na definição da arquitetura de soluções baseadas em IA,
+garantindo escalabilidade, padronização e manutenibilidade dos sistemas.
+Tenho trabalhado na identificação de bons casos de uso para aplicação de
+LLMs, avaliando não apenas a viabilidade técnica, mas também o impacto
+no negócio. Desenho arquiteturas voltadas para ambientes multi-tenant,
+considerando aspectos como segurança, isolamento, custo e performance.
+Também desempenho um papel ativo na engenharia de prompts, otimizando
+o desempenho e a eficácia das respostas dos modelos.
+Adoto protocolos e padrões modernos para garantir um desenvolvimento
+robusto e sustentável. Entre as soluções utilizadas, destaco o uso de proxies
+agnósticos de LLM para permitir flexibilidade entre diferentes provedores de
+modelo (como OpenAI, Mistral, Anthropic etc), além da orquestração de fluxos
+complexos com LangChain e LangGraph. Para ampliar o nível de automação
+e controle, também utilizo function tools e implemento o MCP (Model Context
+Protocol), que padroniza a forma como o contexto é gerenciado e transmitido
+entre componentes.
+Essa abordagem arquitetural tem permitido o desenvolvimento de sistemas
+mais consistentes, modulares e preparados para escala, sempre com foco na
+performance e na adaptabilidade ao longo do ciclo de vida dos projetos.
+Desenvolvedor Pleno - P&D
+outubro de 2023 - maio de 2025 (1 ano 8 meses)
+Olinda, Pernambuco, Brasil
+Linguagens de programação mais utilizadas: TypeScript, Python e PHP.
+Atuei na pesquisa de soluções tecnológicas para problemas reais do mercado,
+participando do desenvolvimento de POCs, MVPs e produtos finais. Contribuí
+em projetos em todas as etapas do ciclo de vida do software, desde a
+Page 2 of 7concepção, arquitetura e desenvolvimento até o deploy e monitoramento em
+produção.
+Em um dos projetos, desenvolvi uma plataforma de WhatsApp com integração
+via middleware e BFF (Backend for Frontend). Implementei diversas features
+para tornar o sistema multi-tenant e resiliente a falhas, com integrações
+com múltiplos ERPs. Para lidar com a complexidade dessas integrações,
+utilizei padrões de projeto como DTO, Abstract Factory e Adapter. Também
+implementei alertas e monitoramento utilizando o Datadog, além de atuar na
+infraestrutura da AWS com Terraform.
+Configurei e utilizei diversos serviços da AWS, como S3, Secrets Manager,
+ECS e API Gateway. Em outra frente, desenvolvi uma solução de atualização
+cadastral guiada por fluxo web, em que o usuário era conduzido de forma
+simples e intuitiva. Essa solução foi construída de ponta a ponta em Node.js,
+com foco em padronização utilizando interfaces e abstrações, garantindo
+manutenção e escalabilidade.
+Trabalhei com bancos de dados relacionais e não-relacionais, principalmente
+MySQL e MongoDB. Também desenvolvi soluções utilizando modelos de
+linguagem (LLMs) para criar menus e interações inteligentes no WhatsApp,
+proporcionando uma experiência mais natural e eficiente para o usuário final.
+Para acelerar o desenvolvimento e entregas de POCs e MVPs, utilizei a
+ferramenta Cursor, que também me auxiliou na refatoração de código em
+larga escala. Além disso, configurei pipelines de CI/CD utilizando o Drone e
+atuei na análise e otimização de performance de código, garantindo entregas
+mais rápidas e eficientes.
+Desenvolvedor Júnior III - P&D
+setembro de 2022 - outubro de 2023 (1 ano 2 meses)
+Olinda, Pernambuco, Brasil
+Linguagens de Programação mais utilizadas: Typescript, Python e PHP.
+Pesquisa de soluções tecnológicas para problemas de mercado.
+Desenvolvimento de POCs, MVP e produtos. Participação em projetos
+em todas as etapas do desenvolvimento de software, desde concepção,
+arquitetura, desenvolvimento e deploy.
+Di2win
+Page 3 of 71 ano 2 meses
+Desenvolvedor full stack IA
+fevereiro de 2022 - setembro de 2022 (8 meses)
+Recife, Pernambuco, Brasil
+Como desenvolvedor, atuei no desenvolvimento de uma plataforma
+baseada em microsserviços voltada para o processamento inteligente de
+currículos, com funcionalidades semelhantes às do LinkedIn, porém com
+foco personalizado conforme os critérios de cada cliente corporativo. A
+solução oferecia um sistema automatizado de rankeamento de candidatos,
+considerando requisitos como senioridade, stack tecnológica, tempo de
+experiência e aderência à vaga.
+Implementei pipelines de ETL para extração e padronização de dados
+provenientes de arquivos PDF e DOCX, utilizando Python com bibliotecas
+como spaCy e scikit-learn para aplicar técnicas de Processamento de
+Linguagem Natural (NLP), incluindo Named Entity Recognition (NER),
+extraindo informações-chave como nome, formação acadêmica, empresas
+anteriores, cargos e competências técnicas.
+Além disso, desenvolvi APIs RESTful com Node.js para integração entre
+os microsserviços e o front-end da aplicação. A arquitetura foi projetada
+para ser escalável e modular, o que me proporcionou uma base sólida em
+desenvolvimento orientado a serviços e boas práticas de integração entre
+sistemas distribuídos.
+Também adquiri experiência no desenvolvimento back-end com Python
+(Flask, Django), Node.js (Express), além de trabalhar com tecnologias como
+Elasticsearch (NoSQL), Git (controle de versão), Shell Script (automação de
+tarefas) e cloud computing com Azure (VMs e Storage Blob). Tenho domínio
+de conceitos fundamentais em machine learning aplicado à linguagem natural,
+classificação supervisionada e manipulação de dados textuais. Complemento
+meus conhecimentos com habilidades básicas em front-end utilizando HTML,
+CSS e JavaScript (vanilla).
+Desenvolvedor full stack IA
+agosto de 2021 - fevereiro de 2022 (7 meses)
+Recife, Pernambuco, Brasil
+Como estagiário, atuei no desenvolvimento de uma plataforma baseada em
+microsserviços voltada para o processamento inteligente de currículos, com
+funcionalidades semelhantes às do LinkedIn, porém com foco personalizado
+Page 4 of 7conforme os critérios de cada cliente corporativo. A solução oferecia um
+sistema automatizado de rankeamento de candidatos, considerando requisitos
+como senioridade, stack tecnológica, tempo de experiência e aderência à
+vaga.
+Implementei pipelines de ETL para extração e padronização de dados
+provenientes de arquivos PDF e DOCX, utilizando Python com bibliotecas
+como spaCy e scikit-learn para aplicar técnicas de Processamento de
+Linguagem Natural (NLP), incluindo Named Entity Recognition (NER),
+extraindo informações-chave como nome, formação acadêmica, empresas
+anteriores, cargos e competências técnicas.
+Além disso, desenvolvi APIs RESTful com Node.js para integração entre
+os microsserviços e o front-end da aplicação. A arquitetura foi projetada
+para ser escalável e modular, o que me proporcionou uma base sólida em
+desenvolvimento orientado a serviços e boas práticas de integração entre
+sistemas distribuídos.
+Também adquiri experiência no desenvolvimento back-end com Python
+(Flask, Django), Node.js (Express), além de trabalhar com tecnologias como
+Elasticsearch (NoSQL), Git (controle de versão), Shell Script (automação de
+tarefas) e cloud computing com Azure (VMs e Storage Blob). Tenho domínio
+de conceitos fundamentais em machine learning aplicado à linguagem natural,
+classificação supervisionada e manipulação de dados textuais. Complemento
+meus conhecimentos com habilidades básicas em front-end utilizando HTML,
+CSS e JavaScript (vanilla).
+COPERGÁS
+Desenvolvedor full stack
+fevereiro de 2020 - julho de 2021 (1 ano 6 meses)
+Boa viagem, PE, Brasil
+Atuei no desenvolvimento de sistemas internos para uso da Copergás,
+contribuindo em todas as etapas do ciclo de vida do software. Participei desde
+o entendimento do problema com os usuários, levantamento e validação de
+requisitos funcionais, prototipação com wireframes, desenvolvimento das
+funcionalidades, até a fase de testes e validação final com os usuários.
+Durante esse período, trabalhei com tecnologias diversas, aplicadas conforme
+a necessidade de cada projeto. No back-end, utilizei PHP puro e também
+Page 5 of 7a plataforma de desenvolvimento rápido ScriptCase, além de Node.js com
+Express.js para construção de APIs e sistemas web.
+Trabalhei com bancos de dados relacionais como MySQL, Oracle e SQL
+Server, incluindo a escrita e otimização de procedures em PL/SQL para
+ambientes Oracle. No front-end, desenvolvi com HTML, CSS e JavaScript
+puro (Vanilla), garantindo interfaces leves e responsivas.
+Também realizei manutenções e atualizações em sistemas baseados em
+CMS como WordPress e Joomla. Atuei com virtual machines em ambientes de
+Cloud Computing e automatizei tarefas rotineiras por meio de Shell Script.
+Utilizei o Git para controler de ambiente e colaboração em equipe,
+assegurando organização e rastreabilidade durante o desenvolvimento.
+Cefospe Recife
+Suporte em TI
+dezembro de 2019 - janeiro de 2020 (2 meses)
+Recife e Região, Brasil
+Manutenção de computadores, atendimento ao clientes. Chamadas de
+suporte para o sistema interno da empresa.
+Cointer PDV 2019
+Desenvolvedor
+dezembro de 2019 - dezembro de 2019 (1 mês)
+Recife, Pernambuco, Brasil
+Desenvolvimento de solução e programação de software no Hackathon por 3
+dias. Análise de casos de uso, captação de requisitos, ideação, construção
+de protótipo mockup e apresentação da ideia em formato de pitch.
+https://cointer.institutoidv.org/
+https://drive.google.com/file/
+d/0B_5Upx_JUpZ3RWNFVlg5ZENOMVRUWXZLOHdJcnNTc3FtNGw4/view
+Secretaria de Saúde do Estado de PE
+Auxiliar administrativo
+fevereiro de 2017 - janeiro de 2019 (2 anos)
+Recife e Região, Brasil
+Estágio Nível Ensino Médio dos 16 aos 18 anos de idade. Apoio ao setor
+administrativo com a manutenção de planilhas, protocolos e dos mais diversos
+Page 6 of 7documentos de controle físico e digital. Alimentação de dados em sistemas de
+Saúde Pública e consulta do mesmos.
+Formação acadêmica
+Centro Universitário Senac
+Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de
+Sistemas · (fevereiro de 2019 - janeiro de 2022)
+Pontifícia Universidade Católica de Minas Gerais
+Pós-graduação Lato Sensu - Especialização, Engenharia de Software · (maio
+de 2022)
+Page 7 of 7
