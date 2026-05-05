@@ -2,7 +2,7 @@
   "main": {
     "name": "Horlando Leão",
     "description": "Desenvolvedor FullStack | IA, Cloud AWS e Automação",
-    "image": "perfil2.jpg",
+    "image": "profilepic.png",
     "bio": "Sou profissional de tecnologia com mais de 5 anos de experiência transformando desafios em soluções digitais de alto impacto. Especialista em Ecossistemas de IA (LLMs, LangChain, Agentes), Cloud Computing (AWS) e Arquiteturas Escaláveis. Atualmente focado em criar ferramentas que automatizam processos e potencializam negócios através da inteligência artificial e automação avançada.",
     "contactmessage": "Estou disponível para novos projetos e parcerias. Se você busca automatizar processos, integrar IA ao seu negócio ou desenvolver sistemas robustos, vamos conversar!",
     "email": "horlandojcleao.developer@gmail.com",
@@ -13,9 +13,9 @@
       "street": "--------",
       "city": "Olinda",
       "state": "Pernambuco",
-      "zip": "53250-040"
+      "zip": "53300-040"
     },
-    "website": "https://horlando-portfolio.netlify.app/",
+    "website": "https://novateklion.com.br",
     "resumedownload": "pdf/Currículo linkedin - Horlando Leão.pdf",
     "social": [
       {
@@ -85,28 +85,56 @@
     ],
     "skills": [
       {
-        "name": "Inteligência Artificial (LLMs, Agents, LangChain)",
-        "level": "95%"
+        "category": "Inteligência Artificial",
+        "technologies": [
+          "LLMs (OpenAI, Anthropic, Mistral)",
+          "LangChain",
+          "LangGraph",
+          "Engenharia de Prompts",
+          "NLP",
+          "Agentes Autônomos"
+        ]
       },
       {
-        "name": "Desenvolvimento Full Stack (Node.js, TypeScript, Python)",
-        "level": "90%"
+        "category": "Back-end & Arquitetura",
+        "technologies": [
+          "Node.js",
+          "TypeScript",
+          "Python",
+          "PHP",
+          "Microsserviços",
+          "REST APIs",
+          "Integração via Middleware"
+        ]
       },
       {
-        "name": "Cloud Computing (AWS, Terraform, CI/CD)",
-        "level": "85%"
+        "category": "Cloud & DevOps",
+        "technologies": [
+          "AWS (S3, ECS, API Gateway, Secrets Manager)",
+          "Terraform",
+          "CI/CD (Drone, GitHub Actions)",
+          "Docker"
+        ]
       },
       {
-        "name": "Arquitetura de Sistemas & Microsserviços",
-        "level": "90%"
+        "category": "Bancos de Dados",
+        "technologies": [
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Elasticsearch",
+          "Oracle (PL/SQL)"
+        ]
       },
       {
-        "name": "Bancos de Dados (SQL & NoSQL)",
-        "level": "85%"
-      },
-      {
-        "name": "Automação de Processos & Web Scraping",
-        "level": "95%"
+        "category": "Front-end & Ferramentas",
+        "technologies": [
+          "React",
+          "HTML/CSS",
+          "Git",
+          "Scraping",
+          "Automação"
+        ]
       }
     ]
   },
@@ -115,30 +143,63 @@
       {
         "title": "Casamento Forever",
         "category": "Plataforma Completa de Gestão de Casamentos",
+        "description": "Uma plataforma SaaS completa para noivos gerenciarem convidados e presentes. Reduziu o tempo de organização em 60% com confirmação de presença via WhatsApp (IA) e recebimentos automatizados.",
+        "techs": [
+          "Node.js",
+          "React",
+          "WhatsApp API",
+          "Stripe"
+        ],
         "image": "novos-sistemas/controle-convite-e-presentes-casamento.png",
         "url": "https://casamentoforever.novateklion.com.br/"
       },
       {
         "title": "MyCash",
         "category": "Sistema de Gestão e Controle de Gastos Pessoais",
+        "description": "Sistema desenvolvido para democratizar a gestão financeira. Conta com painéis de métricas e controle de orçamentos, ajudando usuários a pouparem em média 20% da renda mensal.",
+        "techs": [
+          "TypeScript",
+          "Next.js",
+          "TailwindCSS",
+          "PostgreSQL"
+        ],
         "image": "novos-sistemas/controle-de-gastos-mycash.png",
         "url": "https://mycash.novateklion.com.br/auth"
       },
       {
         "title": "Fornecedores Torres Olinda",
         "category": "Marketplace de Serviços para Condôminos",
+        "description": "Plataforma para conectar prestadores de serviços a condôminos de maneira segura, centralizando avaliações e facilitando contratações rápidas dentro do condomínio.",
+        "techs": [
+          "React",
+          "Express.js",
+          "MongoDB",
+          "AWS S3"
+        ],
         "image": "novos-sistemas/fornecedores-condominos.png",
         "url": "https://fornecedores-torres-olinda.novateklion.com.br/"
       },
       {
         "title": "Calculadora de Férias CLT",
         "category": "Ferramenta Utilitária de Cálculos Trabalhistas",
+        "description": "Micro-aplicação utilitária para cálculos complexos de férias, adiantamentos e deduções fiscais com alta precisão.",
+        "techs": [
+          "JavaScript",
+          "React",
+          "Vercel"
+        ],
         "image": "novos-sistemas/calculadora-ferias-clt.png",
         "url": "https://calculadora-ferias-clt.vercel.app/"
       },
       {
         "title": "Cálculo CLT vs PJ",
         "category": "Simulador de Comparação Salarial",
+        "description": "Simulador que compara rendimentos líquidos entre modelos de contratação (CLT vs PJ), auxiliando profissionais em negociações salariais.",
+        "techs": [
+          "JavaScript",
+          "React",
+          "CSS Modules"
+        ],
         "image": "novos-sistemas/calculadora-clt-para-pj.png",
         "url": "https://calculadora-salario-pj-clt.vercel.app/"
       },
@@ -169,7 +230,7 @@
       {
         "title": "Integração de IA e LLMs",
         "description": "Implementação de assistentes inteligentes, análise de dados com IA e automação de atendimento via WhatsApp e Web utilizando modelos de ponta.",
-        "icon": "fa-robot"
+        "icon": "fa-lightbulb-o"
       },
       {
         "title": "Automação de Processos",

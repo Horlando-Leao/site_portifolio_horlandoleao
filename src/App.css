@@ -94,15 +94,77 @@
 }
 
 #portfolio-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
-.portfolio-item {
-  flex: 0 1 350px;
-  margin-bottom: 40px;
+.carousel-wrapper {
+  padding: 20px 0 60px 0;
+}
+
+.portfolio-item-carousel {
+  padding: 0 15px;
+  outline: none;
+}
+
+.slick-slide {
+  transition: all 0.5s ease;
+  transform: scale(0.85);
+  opacity: 0.6;
+}
+
+.slick-center {
+  transform: scale(1);
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .slick-slide {
+    transform: scale(1);
+    opacity: 1;
+  }
+  .portfolio-item-carousel {
+    padding: 0 10px;
+  }
+  .project-info {
+    padding: 15px;
+  }
+  .portfolio-item-carousel h4 {
+    font-size: 18px;
+  }
+  .project-description {
+    font-size: 13px;
+  }
+  
+  /* Botões internos no mobile */
+  .slick-prev, .slick-next {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    z-index: 100 !important;
+    width: 45px !important;
+    height: 45px !important;
+    background: rgba(0, 0, 0, 0.6) !important;
+    border-radius: 50% !important;
+    position: absolute !important;
+  }
+  .slick-prev {
+    left: 10px !important;
+  }
+  .slick-next {
+    right: 10px !important;
+  }
+  .slick-prev:before, .slick-next:before {
+    font-size: 24px !important;
+    color: #fff !important;
+    opacity: 1 !important;
+    display: block !important;
+  }
+}
+
+.slick-prev:before, .slick-next:before {
+  font-size: 30px;
+  color: var(--primary-color);
 }
 
 .item-wrap {
@@ -117,12 +179,13 @@
   flex-direction: column;
 }
 
+
 .item-wrap:hover {
   border-color: var(--primary-color);
   box-shadow: 0 10px 30px rgba(0, 123, 255, 0.2);
 }
 
-.portfolio-item img {
+.portfolio-item-carousel img {
   width: 100%;
   height: 200px;
   object-fit: cover;
@@ -142,18 +205,44 @@
   justify-content: space-between;
 }
 
-.portfolio-item h4 {
+.portfolio-item-carousel h4 {
   color: #fff;
   font-size: 20px;
   margin: 0 0 10px;
   font-weight: 700;
 }
 
-.portfolio-item .category {
+.portfolio-item-carousel .category {
   color: var(--text-muted);
   font-size: 14px;
   margin-bottom: 20px;
   display: block;
+}
+
+.project-description {
+  color: #d0d0d0;
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.project-techs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 25px;
+  justify-content: center;
+}
+
+.tech-tag {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--primary-color);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 4px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: 500;
 }
 
 .project-link {
@@ -257,4 +346,71 @@
 .download .button:hover {
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0, 123, 255, 0.3);
+}
+
+.whatsapp-svg-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.whatsapp-svg-btn:hover {
+  transform: scale(1.1) rotate(5deg);
+  filter: drop-shadow(0 5px 10px rgba(37, 211, 102, 0.4));
+}
+
+/* Skills Tags Styling */
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.skill-group {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  padding: 25px;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.skill-group:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 5px 15px rgba(0, 123, 255, 0.1);
+}
+
+.skill-category {
+  color: #313131;
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 10px;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.skill-tag {
+  background: rgba(0, 123, 255, 0.15);
+  color: #00d4ff;
+  border: 1px solid rgba(0, 123, 255, 0.3);
+  padding: 8px 16px;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.skill-tag:hover {
+  background: var(--accent-gradient);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 10px rgba(0, 123, 255, 0.3);
 }
