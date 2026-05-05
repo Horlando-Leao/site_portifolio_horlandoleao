@@ -1,250 +1,251 @@
 {
   "main": {
-    "name":"Horlando Leão",
-    "description":"Desenvolvedor | Cloud Computing AWS | IA e Automação | Back-end",
-    "image":"perfil2.jpg",
-    "bio":"Sou profissional de tecnologia com 5+ anos de experiência no desenvolvimento de soluções robustas em Python, TypeScript e PHP. Tenho vivência em todo o ciclo de desenvolvimento de software, desde concepção e arquitetura até deploy, com foco em microsserviços e automação. Atuo com LLMs, engenharia de prompts e cloud AWS.",
-    "contactmessage":"Se precisar contactar a mim, também poderá preencher o formulário, retornarei assim que puder 😊",
+    "name": "Horlando Leão",
+    "description": "Desenvolvedor FullStack | IA, Cloud AWS e Automação",
+    "image": "profilepic.png",
+    "bio": "Sou profissional de tecnologia com mais de 5 anos de experiência transformando desafios em soluções digitais de alto impacto. Especialista em Ecossistemas de IA (LLMs, LangChain, Agentes), Cloud Computing (AWS) e Arquiteturas Escaláveis. Atualmente focado em criar ferramentas que automatizam processos e potencializam negócios através da inteligência artificial e automação avançada.",
+    "contactmessage": "Estou disponível para novos projetos e parcerias. Se você busca automatizar processos, integrar IA ao seu negócio ou desenvolver sistemas robustos, vamos conversar!",
     "email": "horlandojcleao.developer@gmail.com",
     "phone": "+55 81 985707284",
-    "github":"https://github.com/Horlando-Leao",
-    "linkedin":"https://www.linkedin.com/in/horlandojcleao/",
-    "address":{
-      "street":"--------",
-      "city":"Olinda",
-      "state":"pernambuco",
-      "zip": "53250-040"
+    "github": "https://github.com/Horlando-Leao",
+    "linkedin": "https://www.linkedin.com/in/horlandojcleao/",
+    "address": {
+      "street": "--------",
+      "city": "Olinda",
+      "state": "Pernambuco",
+      "zip": "53300-040"
     },
-    "website": "https://horlando-portfolio.netlify.app/",
-    "resumedownload":"https://drive.google.com/drive/folders/13wqozIU4R9x8T00ulzwrRwwIFGdV2wGW?usp=sharing",
-    "social":[
+    "website": "https://novateklion.com.br",
+    "resumedownload": "pdf/Currículo linkedin - Horlando Leão.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/horlandojcleao/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/horlandojcleao/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/horlando8_leao/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/horlando8_leao/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/Horlando-Leao",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/Horlando-Leao",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"5+ anos de experiência em desenvolvimento de soluções robustas. Especialista em LLMs, engenharia de prompts, arquitetura multi-tenant, cloud AWS, CI/CD, Terraform e NLP. Valorizo soluções padronizadas, testáveis e resilientes com ênfase em modularidade.",
-    "education":[
+  "resume": {
+    "skillmessage": "Especialista em desenvolvimento Full Stack com forte ênfase em IA e Automação. Domínio de LLMs, Engenharia de Prompts, Cloud AWS, CI/CD e Arquitetura de Microsserviços.",
+    "education": [
       {
-        "school":"Pontifícia Universidade Católica de Minas Gerais",
-        "degree":"Pós-graduação Lato Sensu - Especialização em Engenharia de Software",
-        "graduated":"maio de 2022",
-        "description":"Especialização"
+        "school": "Pontifícia Universidade Católica de Minas Gerais",
+        "degree": "Pós-graduação Lato Sensu - Especialização em Engenharia de Software",
+        "graduated": "Maio de 2022",
+        "description": "Especialização com foco em arquitetura e qualidade de software."
       },
       {
-        "school":"Centro Universitário Senac",
-        "degree":"Curso Superior de Tecnologia (CST) - Análise e Desenvolvimento de Sistemas",
-        "graduated":"janeiro de 2022",
-        "description":"Tecnólogo"
+        "school": "Centro Universitário Senac",
+        "degree": "Curso Superior de Tecnologia (CST) - Análise e Desenvolvimento de Sistemas",
+        "graduated": "Janeiro de 2022",
+        "description": "Tecnólogo"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Superlógica Tecnologias",
-        "title":"Desenvolvedor Pleno - Engenharia Cross",
-        "years":"maio de 2025 - Presente",
-        "description":"Desenvolvedor com foco em soluções com Inteligência Artificial. Responsável pela definição da arquitetura de soluções baseadas em IA, LLMs (OpenAI, Mistral, Anthropic), engenharia de prompts, orquestração com LangChain e LangGraph, MCP (Model Context Protocol), e ambientes multi-tenant."
+        "company": "Superlógica Tecnologias",
+        "title": "Desenvolvedor Pleno - Engenharia Cross",
+        "years": "Maio de 2025 - Presente",
+        "description": "Liderança técnica em soluções de IA, definindo arquiteturas baseadas em LLMs (OpenAI, Mistral, Anthropic). Orquestração com LangChain/LangGraph e implementação de protocolos MCP em ambientes multi-tenant."
       },
       {
-        "company":"Superlógica Tecnologias",
-        "title":"Desenvolvedor Pleno - P&D",
-        "years":"outubro de 2023 - maio de 2025",
-        "description":"Pesquisa de soluções tecnológicas para problemas reais do mercado. Desenvolvimento de POCs, MVPs e produtos finais. Plataforma WhatsApp com integração via middleware, multi-tenant resiliente a falhas, integrações com múltiplos ERPs. Infraestrutura AWS (S3, Secrets Manager, ECS, API Gateway), Terraform, Datadog, Node.js, MySQL e MongoDB."
+        "company": "Superlógica Tecnologias",
+        "title": "Desenvolvedor Pleno - P&D",
+        "years": "Outubro de 2023 - Maio de 2025",
+        "description": "Desenvolvimento de MVPs e produtos inovadores. Integração de ERPs via middleware resiliente no WhatsApp. Gestão de infraestrutura AWS com Terraform e monitoramento via Datadog."
       },
       {
-        "company":"Superlógica Tecnologias",
-        "title":"Desenvolvedor Júnior III - P&D",
-        "years":"setembro de 2022 - outubro de 2023",
-        "description":"Pesquisa de soluções tecnológicas e desenvolvimento de POCs, MVPs e produtos. Participação em projetos em todas as etapas do ciclo de desenvolvimento de software. Linguagens: TypeScript, Python e PHP."
+        "company": "Superlógica Tecnologias",
+        "title": "Desenvolvedor Júnior III - P&D",
+        "years": "Setembro de 2022 - Outubro de 2023",
+        "description": "Desenvolvimento de POCs e produtos utilizando TypeScript, Python e PHP, cobrindo todo o ciclo de vida do software."
       },
       {
-        "company":"Di2win",
-        "title":"Desenvolvedor Full Stack IA",
-        "years":"fevereiro de 2022 - setembro de 2022",
-        "description":"Desenvolvimento de plataforma baseada em microsserviços para processamento inteligente de currículos. Pipelines de ETL com Python (spaCy, scikit-learn), NLP, NER. APIs RESTful com Node.js. Azure cloud computing (VMs e Storage Blob)."
+        "company": "Di2win",
+        "title": "Desenvolvedor Full Stack IA",
+        "years": "Agosto de 2021 - Setembro de 2022",
+        "description": "Plataforma de processamento inteligente de currículos com NLP/NER. Pipelines ETL com spaCy/scikit-learn e APIs escaláveis em Node.js."
       },
       {
-        "company":"Di2win",
-        "title":"Desenvolvedor Full Stack IA (Estágio)",
-        "years":"agosto de 2021 - fevereiro de 2022",
-        "description":"Plataforma de microsserviços para processamento inteligente de currículos com ranking automatizado de candidatos. Desenvolvimento de pipelines ETL com Python, APIs RESTful com Node.js, Elasticsearch, Git e Shell Script."
-      },
-      {
-        "company":"Copergás",
-        "title":"Desenvolvedor Full Stack",
-        "years":"fevereiro de 2020 - julho de 2021",
-        "description":"Desenvolvimento de sistemas internos. Back-end com PHP puro, ScriptCase, Node.js com Express.js. Bancos de dados: MySQL, Oracle, SQL Server com PL/SQL. Front-end: HTML, CSS, JavaScript. CMS: WordPress e Joomla. Cloud Computing, Shell Script e Git."
-      },
-      {
-        "company":"Cointer PDV - Hackathon",
-        "title":"Desenvolvedor",
-        "years":"dezembro de 2019",
-        "description":"Desenvolvimento de solução em 3 dias. Análise de casos de uso, captação de requisitos, ideação, construção de protótipo mockup e apresentação da ideia em formato de pitch."
-      },
-      {
-        "company":"Cefospe",
-        "title":"Suporte em TI",
-        "years":"dezembro de 2019 - janeiro de 2020",
-        "description":"Manutenção de computadores, atendimento ao clientes. Chamadas de suporte para o sistema interno da empresa."
+        "company": "Copergás",
+        "title": "Desenvolvedor Full Stack",
+        "years": "Fevereiro de 2020 - Julho de 2021",
+        "description": "Desenvolvimento de sistemas corporativos críticos (SILIA, SGP, SINC). Experiência sólida em PHP, Oracle (PL/SQL) e Node.js."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"75%"
+        "category": "Inteligência Artificial",
+        "technologies": [
+          "LLMs (OpenAI, Anthropic, Mistral)",
+          "LangChain",
+          "LangGraph",
+          "Engenharia de Prompts",
+          "NLP",
+          "Agentes Autônomos"
+        ]
       },
       {
-        "name":"TypeScript",
-        "level":"80%"
+        "category": "Back-end & Arquitetura",
+        "technologies": [
+          "Node.js",
+          "TypeScript",
+          "Python",
+          "PHP",
+          "Microsserviços",
+          "REST APIs",
+          "Integração via Middleware"
+        ]
       },
       {
-        "name":"Node.JS [Express, NestJS]",
-        "level":"75%"
+        "category": "Cloud & DevOps",
+        "technologies": [
+          "AWS (S3, ECS, API Gateway, Secrets Manager)",
+          "Terraform",
+          "CI/CD (Drone, GitHub Actions)",
+          "Docker"
+        ]
       },
       {
-        "name":"SQL [MySQL, Oracle, SQL Server, PostgreSQL]",
-        "level":"80%"
+        "category": "Bancos de Dados",
+        "technologies": [
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Elasticsearch",
+          "Oracle (PL/SQL)"
+        ]
       },
       {
-        "name":"NoSQL [MongoDB, Elasticsearch]",
-        "level":"70%"
-      },
-      {
-        "name":"APIs REST e Microsserviços",
-        "level":"80%"
-      },
-      {
-        "name":"LLMs (OpenAI, Anthropic, GEMINI)",
-        "level":"75%"
-      },
-      {
-        "name":"LangChain e LangGraph",
-        "level":"70%"
-      },
-      {
-        "name":"AWS [S3, Secrets Manager, ECS, API Gateway]",
-        "level":"70%"
-      },
-      {
-        "name":"Terraform e Infrastructure as Code",
-        "level":"65%"
-      },
-      {
-        "name":"CI/CD [Drone, GitHub Actions]",
-        "level":"70%"
-      },
-      {
-        "name":"NLP e NER",
-        "level":"65%"
-      },
-      {
-        "name":"ETL e Data Processing",
-        "level":"70%"
-      },
-      {
-        "name":"React e React Native",
-        "level":"50%"
-      },
-      {
-        "name":"Git e Controle de Versão",
-        "level":"85%"
-      },
-      {
-        "name":"Shell Script",
-        "level":"65%"
-      },
-      {
-        "name":"Comunicação e Liderança",
-        "level":"80%"
+        "category": "Front-end & Ferramentas",
+        "technologies": [
+          "React",
+          "HTML/CSS",
+          "Git",
+          "Scraping",
+          "Automação"
+        ]
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Copergás - SILIA",
-        "category":"Sistema de acompanhamento de Licenças",
-        "image":"si-silia.jpeg",
-        "url":"/"
+        "title": "Casamento Forever",
+        "category": "Plataforma Completa de Gestão de Casamentos",
+        "description": "Uma plataforma SaaS completa para noivos gerenciarem convidados e presentes. Reduziu o tempo de organização em 60% com confirmação de presença via WhatsApp (IA) e recebimentos automatizados.",
+        "techs": [
+          "Node.js",
+          "React",
+          "WhatsApp API",
+          "Stripe"
+        ],
+        "image": "novos-sistemas/controle-convite-e-presentes-casamento.png",
+        "url": "https://casamentoforever.novateklion.com.br/"
       },
       {
-        "title":"Copergás - SGP",
-        "category":"Sistema gerenciamento de projetos",
-        "image":"si-spg-projetos.jpeg",
-        "url":"/"
+        "title": "MyCash",
+        "category": "Sistema de Gestão e Controle de Gastos Pessoais",
+        "description": "Sistema desenvolvido para democratizar a gestão financeira. Conta com painéis de métricas e controle de orçamentos, ajudando usuários a pouparem em média 20% da renda mensal.",
+        "techs": [
+          "TypeScript",
+          "Next.js",
+          "TailwindCSS",
+          "PostgreSQL"
+        ],
+        "image": "novos-sistemas/controle-de-gastos-mycash.png",
+        "url": "https://mycash.novateklion.com.br/auth"
       },
       {
-        "title":"Copergás - SINC",
-        "category":"Sistema de notificação de faturas da Copergás",
-        "image":"si-web-sinc.jpeg",
-        "url":"/"
+        "title": "Fornecedores Torres Olinda",
+        "category": "Marketplace de Serviços para Condôminos",
+        "description": "Plataforma para conectar prestadores de serviços a condôminos de maneira segura, centralizando avaliações e facilitando contratações rápidas dentro do condomínio.",
+        "techs": [
+          "React",
+          "Express.js",
+          "MongoDB",
+          "AWS S3"
+        ],
+        "image": "novos-sistemas/fornecedores-condominos.png",
+        "url": "https://fornecedores-torres-olinda.novateklion.com.br/"
       },
       {
-        "title":"Copergás - GELIC",
-        "category":"Sistema de acompanhamento de Licitações e Contratos",
-        "image":"si-gelic.jpeg",
-        "url":"/"
+        "title": "Calculadora de Férias CLT",
+        "category": "Ferramenta Utilitária de Cálculos Trabalhistas",
+        "description": "Micro-aplicação utilitária para cálculos complexos de férias, adiantamentos e deduções fiscais com alta precisão.",
+        "techs": [
+          "JavaScript",
+          "React",
+          "Vercel"
+        ],
+        "image": "novos-sistemas/calculadora-ferias-clt.png",
+        "url": "https://calculadora-ferias-clt.vercel.app/"
       },
       {
-        "title":"Mapa de Calor",
-        "category":"Mapa de Regiões perigosas no estado de são paulo",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/maps_secview"
+        "title": "Cálculo CLT vs PJ",
+        "category": "Simulador de Comparação Salarial",
+        "description": "Simulador que compara rendimentos líquidos entre modelos de contratação (CLT vs PJ), auxiliando profissionais em negociações salariais.",
+        "techs": [
+          "JavaScript",
+          "React",
+          "CSS Modules"
+        ],
+        "image": "novos-sistemas/calculadora-clt-para-pj.png",
+        "url": "https://calculadora-salario-pj-clt.vercel.app/"
       },
       {
-        "title":"Identificador de Cenas",
-        "category":"API de indentificador de cenas que representão perigo",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
+        "title": "Copergás - SILIA",
+        "category": "Sistema de acompanhamento de Licenças",
+        "image": "si-silia.jpeg",
+        "url": "/"
       },
       {
-        "title":"Relatório Inteligente",
-        "category":"API de interpretação de intenções de usuário",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/geradorRelatorioInteligente"
+        "title": "Copergás - SGP",
+        "category": "Sistema gerenciamento de projetos",
+        "image": "si-spg-projetos.jpeg",
+        "url": "/"
       },
       {
-        "title":"Encurtador de URL",
-        "category":"Sistema de encurtamento de URL",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/node_short_url"
+        "title": "Mapa de Calor",
+        "category": "Mapa de Regiões perigosas no estado de são paulo",
+        "image": "meu-profile-github.png",
+        "url": "https://github.com/Horlando-Leao/maps_secview"
+      }
+    ]
+  },
+  "services": {
+    "title": "O que posso fazer pelo seu negócio",
+    "description": "Ofereço soluções tecnológicas personalizadas com foco em resultados reais e inovação constante.",
+    "offerings": [
+      {
+        "title": "Integração de IA e LLMs",
+        "description": "Implementação de assistentes inteligentes, análise de dados com IA e automação de atendimento via WhatsApp e Web utilizando modelos de ponta.",
+        "icon": "fa-lightbulb-o"
       },
       {
-        "title":"Sistemas de Pedido",
-        "category":"Sistema backend REST de pedidos em Java",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/spring-boot-ionic-backend"
+        "title": "Automação de Processos",
+        "description": "Redução de custos e erros operacionais através da automação de tarefas repetitivas, extração de dados (scraping) e fluxos de trabalho inteligentes.",
+        "icon": "fa-cogs"
       },
       {
-        "title":"REST TASK LIST",
-        "category":"Sistema backend REST de lista de tarefas",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/backend_tasklist"
+        "title": "Desenvolvimento Full Stack",
+        "description": "Criação de sistemas web robustos, escaláveis e modernos, do front-end intuitivo ao back-end de alta performance.",
+        "icon": "fa-code"
       },
       {
-        "title":"Airbnb para Programadores",
-        "category":"Site em REACTJS Rockeseat",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/reactSiteAirBnb"
-      },
-      {
-        "title":"WebProffy",
-        "category":"Site em REACTJS Rockeseat, plataforma de ensino",
-        "image":"meu-profile-github.png",
-        "url":"https://github.com/Horlando-Leao/webProffyRocktseat"
+        "title": "Cloud & Infraestrutura",
+        "description": "Configuração de ambientes seguros na AWS, implementação de pipelines de CI/CD e infraestrutura como código (Terraform).",
+        "icon": "fa-cloud"
       }
     ]
   }

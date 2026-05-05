@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 let id = 0;
 class Portfolio extends Component {
@@ -11,29 +14,74 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
 
       return (
-        <div key={id++} className="columns portfolio-item">
+        <div key={id++} className="portfolio-item-carousel">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center", color: "blue" }}>{projects.title}</div>
-            <div style={{ textAlign: "center" }}>{projects.category}</div>
-            <a style={{ textAlign: "center" }} target="parent" href={projects.url}> Link do Projeto </a>
+            <div className="project-info">
+              <h4>{projects.title}</h4>
+              <span className="category">{projects.category}</span>
+              
+              {projects.description && (
+                <p className="project-description">{projects.description}</p>
+              )}
+              
+              {projects.techs && (
+                <div className="project-techs">
+                  {projects.techs.map(tech => (
+                    <span key={tech} className="tech-tag">{tech}</span>
+                  ))}
+                </div>
+              )}
+
+              <a className="project-link" target="_blank" rel="noopener noreferrer" href={projects.url}>
+                <i className="fa fa-external-link"></i> Visualizar Projeto
+              </a>
+            </div>
           </div>
         </div>
       );
     });
 
+    const settings = {
+      className: "center",
+      centerMode: true,
+      infinite: true,
+      centerPadding: "0px",
+      slidesToShow: 3,
+      speed: 500,
+      focusOnSelect: true,
+      arrows: true,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 1,
+            centerMode: false,
+            arrows: true
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 1,
+            centerMode: false,
+            arrows: true
+          }
+        }
+      ]
+    };
+
     return (
       <section id="portfolio">
-        <Fade left duration={1000} distance="80px">
+        <Fade bottom duration={1000}>
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Aqui estão meus projetos pessoais.</h1>
+              <h1>Projetos em Destaque</h1>
 
-              <div
-                id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
-              >
-                {projects}
+              <div id="portfolio-wrapper" className="carousel-wrapper">
+                <Slider {...settings}>
+                  {projects}
+                </Slider>
               </div>
             </div>
           </div>
