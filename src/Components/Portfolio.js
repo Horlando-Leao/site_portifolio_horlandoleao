@@ -11,12 +11,16 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
 
       return (
-        <div key={id++} className="columns portfolio-item">
+        <div key={id++} className="portfolio-item">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center", color: "blue" }}>{projects.title}</div>
-            <div style={{ textAlign: "center" }}>{projects.category}</div>
-            <a style={{ textAlign: "center" }} target="parent" href={projects.url}> Link do Projeto </a>
+            <div className="project-info">
+              <h4>{projects.title}</h4>
+              <span className="category">{projects.category}</span>
+              <a className="project-link" target="_blank" rel="noopener noreferrer" href={projects.url}>
+                <i className="fa fa-external-link"></i> Visualizar Projeto
+              </a>
+            </div>
           </div>
         </div>
       );
@@ -24,15 +28,12 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        <Fade left duration={1000} distance="80px">
+        <Fade bottom duration={1000}>
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Aqui estão meus projetos pessoais.</h1>
+              <h1>Projetos em Destaque</h1>
 
-              <div
-                id="portfolio-wrapper"
-                className="bgrid-quarters s-bgrid-thirds cf"
-              >
+              <div id="portfolio-wrapper">
                 {projects}
               </div>
             </div>

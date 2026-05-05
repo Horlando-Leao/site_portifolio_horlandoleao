@@ -13,7 +13,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg color="#6d94fc" num={50} type="lines" bg={true} />
+        <ParticlesBg color="#007bff" num={50} type="cobweb" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -37,6 +37,12 @@ class Header extends Component {
             </li>
 
             <li>
+              <a className="smoothscroll" href="#services">
+                Serviços
+              </a>
+            </li>
+
+            <li>
               <a className="smoothscroll" href="#resume">
                 Resumo
               </a>
@@ -50,7 +56,7 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#contact">
-                
+                Contato
               </a>
             </li>
           </ul>
@@ -67,7 +73,7 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project}  target="parent" className="button btn project-btn">
+                <a href={project} target="parent" className="button btn project-btn">
                   <i className="fa fa-book"></i>Linkedin
                 </a>
                 <a href={github} target="parent" className="button btn github-btn">
