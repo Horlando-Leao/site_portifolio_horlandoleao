@@ -53,7 +53,7 @@ class Portfolio extends Component {
       arrows: true,
       responsive: [
         {
-          breakpoint: 1024,
+          breakpoint: 1200,
           settings: {
             slidesToShow: 1,
             centerMode: false,
@@ -61,7 +61,23 @@ class Portfolio extends Component {
           }
         },
         {
-          breakpoint: 600,
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 1,
+            centerMode: false,
+            arrows: true
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1,
+            centerMode: false,
+            arrows: true
+          }
+        },
+        {
+          breakpoint: 480,
           settings: {
             slidesToShow: 1,
             centerMode: false,
