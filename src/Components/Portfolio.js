@@ -7,6 +7,26 @@ import "slick-carousel/slick/slick-theme.css";
 
 let id = 0;
 class Portfolio extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isMobile: window.innerWidth <= 992
+    };
+    this.handleResize = this.handleResize.bind(this);
+  }
+
+  componentDidMount() {
+    window.addEventListener('resize', this.handleResize);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.handleResize);
+  }
+
+  handleResize() {
+    this.setState({ isMobile: window.innerWidth <= 992 });
+  }
+
   render() {
     if (!this.props.data) return null;
 
@@ -43,48 +63,14 @@ class Portfolio extends Component {
     });
 
     const settings = {
-      className: "center",
-      centerMode: true,
+      className: this.state.isMobile ? "" : "center",
+      centerMode: !this.state.isMobile,
       infinite: true,
       centerPadding: "0px",
-      slidesToShow: 3,
+      slidesToShow: this.state.isMobile ? 1 : 3,
       speed: 500,
       focusOnSelect: true,
-      arrows: true,
-      responsive: [
-        {
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 1,
-            centerMode: false,
-            arrows: true
-          }
-        },
-        {
-          breakpoint: 992,
-          settings: {
-            slidesToShow: 1,
-            centerMode: false,
-            arrows: true
-          }
-        },
-        {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 1,
-            centerMode: false,
-            arrows: true
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            centerMode: false,
-            arrows: true
-          }
-        }
-      ]
+      arrows: true
     };
 
     return (
