@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Portifólio Horlando",
+  "short_name": "Horlando Leão",
+  "name": "Horlando Leão | Desenvolvedor FullStack, IA e Cloud AWS",
+  "description": "Portfólio profissional de Horlando Leão — especialista em IA, LLMs, Cloud AWS e Automação.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,8 +9,12 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#000000",
+  "lang": "pt-BR",
+  "categories": ["portfolio", "technology", "business"]
 }
