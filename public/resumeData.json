@@ -56,13 +56,13 @@
         "company": "Superlógica Tecnologias",
         "title": "Desenvolvedor - Engenharia Cross (IA & Arquitetura)",
         "years": "Maio de 2025 - Presente",
-        "description": "Referência técnica na arquitetura e evolução do Gruvi Assist / Concierge Orquestrador — plataforma multi-tenant de Agentes de IA baseada em LangGraph e Gemini (Google Cloud Vertex AI) integrada ao WhatsApp Business. Implementação de observabilidade de LLMs ponta a ponta com Langfuse, pipelines RAG multi-documento (PDF, DOCX, Markdown), tools transacionais (emissão de boletos em PDF, liberação de visitantes), autoria da ADR 0012 e estudos de viabilidade técnico-financeira de IA."
+        "description": "Referência técnica na arquitetura e evolução do Gruvi Assist — plataforma multi-tenant de Agentes de IA baseada em LangGraph e Gemini (Google Cloud Vertex AI) integrada ao WhatsApp Business. Implementação de observabilidade de LLMs ponta a ponta com Langfuse, pipelines RAG multi-documento (PDF, DOCX, Markdown), tools transacionais (emissão de boletos em PDF, liberação de visitantes), autoria de ADR de Arquitetura-Alvo de IA e Análise de Viabilidade Econômica de IA."
       },
       {
         "company": "Superlógica Tecnologias",
         "title": "Desenvolvedor Pleno - P&D",
         "years": "Outubro de 2023 - Maio de 2025",
-        "description": "Desenvolvimento de plataformas de atendimento multicanal (Atende), BFFs (mor-app-gruvi-bff) e sistemas de operação condominial (Atualiza Condo e módulo de Manutenções com OpenAPI 3.0 automatizado). Integração resiliente de ERPs via webhooks no WhatsApp Business, notificações push FCM e gestão de infraestrutura AWS com Terraform e Docker."
+        "description": "Desenvolvimento do Ecossistema Atende CRM, do BFF do Gruvi, do Front do Gruvi (Multifrontend) e da Plataforma Nexus (operações condominiais com OpenAPI 3.0 automatizado). Integração resiliente de ERPs via webhooks no WhatsApp Business, notificações push FCM e gestão de infraestrutura AWS com Terraform e Docker."
       },
       {
         "company": "Superlógica Tecnologias",
